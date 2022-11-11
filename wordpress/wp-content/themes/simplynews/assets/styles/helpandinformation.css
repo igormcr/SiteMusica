@@ -1,0 +1,96 @@
+body {
+    background-image:url('../../images/helpandinfobg.png');
+}
+.information-card {
+    display: inline-block;
+    float: left;
+    max-width: 230px;
+    text-align: center;
+    position: relative;
+    height: 20px;
+    width: 100%;
+    margin-right: 30px;
+    margin-top: 40px;
+}
+.information-card-box {
+    padding: 20px;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.15);
+    background: #fff;
+    width: 100%;
+    position: absolute;
+    border-radius:5px;
+    left: 0;
+}
+.information-card p {
+    color: #909090;
+}
+.information-cards h1 {
+    color: #000;
+    font-size: 37px;
+    margin-top: 40px;
+}
+.information-card h2 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 0px;
+}
+.information-card-box.information-card-top {
+    z-index: 999;
+    top: -20px;
+}
+.information-cards {
+    display: inline-block;
+    float: left;
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+}
+a.information-button {
+    background-color: #25c481;
+    background: linear-gradient(to right, #25c481, #25b7c4);
+    color: #fff;
+    padding: 13px 20px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 5px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.18);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.22);
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.information-card img {
+    max-width: 150px;
+    margin-top: 10px;
+}
+@media screen and (max-width: 950px) {
+    .information-card-box.information-card-top  {
+        top:0;
+    }
+    .information-cards h1 {
+        color: #000;
+        font-size: 25px;
+        margin-top: 20px;
+    }
+    .information-card {
+        margin-top:20px;
+    }
+    .information-card {
+        max-width:100%;
+        height:auto;
+    }
+    .information-card-box {
+        position: relative !important;
+        top: 0;
+        left: auto;
+        right:auto;
+        max-width:220px;
+        margin:auto;
+    }
+    .information-card {
+        width:100%;
+    }
+}

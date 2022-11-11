@@ -1,0 +1,288 @@
+# Translation of Themes - Simplent in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Simplent package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-30 16:01:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Simplent\n"
+
+#. Theme Name of the plugin/theme
+msgid "Simplent"
+msgstr "Simplent"
+
+#. Description of the plugin/theme
+msgid "Simplent is a responsive simple and minimal WordPress Theme, which allow you to create an effective blog type website."
+msgstr "Simplent é um tema WordPress responsivo e minimalista, que lhe ajuda a criar um blog simples e eficaz."
+
+#. translators: %s: search query
+#: search.php:28
+msgid "Search Results for: %s"
+msgstr "Resultados da pesquisa por: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: includes/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#: image.php:71 template-parts/content-page.php:22
+#: template-parts/content-single.php:26
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: includes/front/enqueue.php:60
+msgid "collapse child menu"
+msgstr "recolher menu-filho"
+
+#: includes/front/enqueue.php:59
+msgid "expand child menu"
+msgstr "expandir menu-filho"
+
+#: includes/widgets.php:5
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: single.php:36
+msgid "Next"
+msgstr "Próximo"
+
+#: single.php:37
+msgid "Previous"
+msgstr "Anterior"
+
+#: includes/customizer/social.php:174
+msgid "Email"
+msgstr "E-mail"
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Epa! Essa página não pode ser encontrada."
+
+#: image.php:75 template-parts/content-page.php:26
+#: template-parts/content-single.php:30
+msgid "Page"
+msgstr "Página"
+
+#: includes/template-tags.php:88
+msgid "Older posts"
+msgstr "Posts antigos"
+
+#: includes/template-tags.php:87
+msgid "Newer posts"
+msgstr "Posts recentes"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que nada foi encontrado nesse local. Quem sabe tentamos uma busca?"
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro texto? <a href=\"%1$s\">Comece por aqui</a>."
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Pesquisa"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Procurar &hellip;"
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr "Busca por:"
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aparentemente não pudemos encontrar o que você está procurando. Talvez uma busca ajude."
+
+#: template-parts/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Nada foi encontrado com os termos da sua pesquisa. Tente novamente com algumas palavras-chaves diferentes."
+
+#: header.php:72 includes/setup.php:55
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: image.php:40
+msgid "Next Image"
+msgstr "Próxima imagem"
+
+#: image.php:39
+msgid "Previous Image"
+msgstr "Imagem anterior"
+
+#: footer.php:9
+msgid "%1$s Theme by %2$s"
+msgstr "Tema %1$s por %2$s"
+
+#. translators: %s: theme author
+#: footer.php:9
+msgid "https://abdulrafay.me/"
+msgstr "https://abdulrafay.me/"
+
+#: footer.php:6
+msgid "Proudly powered by %s"
+msgstr "Orgulhosamente movido a %s"
+
+#. translators: %s: WordPress
+#: footer.php:6
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s resposta a &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s respostas a &ldquo;%2$s&rdquo;"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Uma resposta a &ldquo;%s&rdquo;"
+
+#: includes/theme-customizer.php:24
+msgid "Theme Options"
+msgstr "Opções do tema"
+
+#: includes/template-tags.php:124
+msgid "Tags"
+msgstr "Marcações"
+
+#: includes/template-tags.php:119
+msgid "Categories"
+msgstr "Categorias"
+
+#: includes/template-tags.php:76
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publicado em"
+
+#: includes/customizer/social.php:150
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/customizer/social.php:125
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/customizer/social.php:101
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: includes/customizer/social.php:77
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: includes/customizer/social.php:53
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/customizer/social.php:29
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/customizer/misc.php:47
+msgid "Gallery Carousel"
+msgstr "Carrossel de galerias"
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Em destaque"
+
+#: single.php:37
+msgid "Previous post:"
+msgstr "Post anterior:"
+
+#: single.php:36
+msgid "Next post:"
+msgstr "Próximo post:"
+
+#: single.php:31
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publicado em </span><span class=\"post-title\">%title</span>"
+
+#: includes/widgets.php:7
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Adicione aqui os widgets que irão aparecer na barra lateral. "
+
+#: includes/customizer/social.php:9
+msgid "Social Settings"
+msgstr "Configurações de redes sociais"
+
+#: includes/customizer/misc.php:48
+msgid "Enable gallery carousel on gallery images. It will only work on home page with full size gallery images."
+msgstr "Ativa o carrossel em imagens de galerias. Só funciona na página inicial com imagens de tamanho total."
+
+#: includes/customizer/misc.php:26
+msgid "Show Search Icon"
+msgstr "Mostrar ícone de busca"
+
+#: includes/customizer/misc.php:9
+msgid "Misc Settings"
+msgstr "Configurações extras"
+
+#: includes/customizer/layout.php:28
+msgid "No Sidebar"
+msgstr "Sem barra lateral"
+
+#: includes/customizer/layout.php:26
+msgid "Sidebar Left"
+msgstr "Barra lateral à esquerda"
+
+#: includes/customizer/layout.php:27
+msgid "Sidebar Right"
+msgstr "Barra lateral à direita"
+
+#: includes/customizer/layout.php:21
+msgid "Site Layout"
+msgstr "Leiaute do website"
+
+#: includes/customizer/layout.php:6
+msgid "Layout Settings"
+msgstr "Configurações de leiaute"
+
+#: image.php:113
+msgctxt "Parent Post Link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publicado em </span><span class=\"post-title\">%title</span>"
+
+#. translators: %s: Name of current post
+#: image.php:99 includes/template-tags.php:137
+#: template-parts/content-page.php:37
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\""
+msgstr "Editar <span class=\"screen-reader-text\">\"%s\""
+
+#: image.php:87
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Tamanho completo"
+
+#. Author URI of the plugin/theme
+msgid "https://abdulrafay.me"
+msgstr "https://abdulrafay.me"
+
+#. Author of the plugin/theme
+msgid "Abdul Rafay"
+msgstr "Abdul Rafay"

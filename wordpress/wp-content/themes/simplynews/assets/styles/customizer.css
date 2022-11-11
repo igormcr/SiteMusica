@@ -1,0 +1,61 @@
+/*
+	CSS For Customizer Theme Help Box 
+*/
+#sub-accordion-section-help_and_information .description {
+    background: #fff;
+    text-align: center;
+    padding: 15px;
+}
+#sub-accordion-section-help_and_information .description strong {
+    font-size: 19px;
+}	
+#sub-accordion-section-help_and_information .description img {
+    max-width: 110px;
+    margin: 0;
+}
+#sub-accordion-section-help_and_information .description a {
+    background-color: #25c481;
+    background: linear-gradient(to right, #25c481, #25b7c4);
+    color: #fff;
+    padding: 13px 20px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 5px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.18);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.22);
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+/*
+	CSS For Customizer Upsell Box 
+*/
+#sub-accordion-section-get_more_features_upsell .description {
+    background: #fff;
+    text-align: center;
+    padding: 15px;
+}
+#sub-accordion-section-get_more_features_upsell .description strong {
+    font-size: 19px;
+}	
+#sub-accordion-section-get_more_features_upsell .description img {
+    max-width: 110px;
+    margin: 0;
+}
+#sub-accordion-section-get_more_features_upsell .description a {
+    background-color: #25c481;
+    background: linear-gradient(to right, #25c481, #25b7c4);
+    color: #fff;
+    padding: 13px 20px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 5px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.18);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.22);
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
